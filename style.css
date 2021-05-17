@@ -1,5 +1,5 @@
 body {
-    background-color: darkred;
+    background-color: rgb(148, 48, 48);
 }
 
 p {
@@ -8,4 +8,9 @@ p {
 
 .allgemein {
     color: whitesmoke;
+}
+
+img {
+    border-radius: 1rem;
+    box-shadow: 10px 10px 10px #000;
 }
